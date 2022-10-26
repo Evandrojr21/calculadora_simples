@@ -1,5 +1,5 @@
 # Calculadora
-Projeto feito com o intuito de aprimorar conhecimentos em Python e em Git.Foi feita uma simples calculadora 
+Projeto feito com o intuito de aprimorar conhecimentos em Python e em Git. Foi feita uma simples calculadora 
 com interface gráfica que depois pretendo aprimorar a mesma
 
 ## 👨‍💻️ Tecnologia Utilizada
