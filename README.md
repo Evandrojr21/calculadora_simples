@@ -1,6 +1,6 @@
 # Calculadora
-Projeto feito com o intuito de aprimorar conhecimentos em python e em Git, foi feita uma simples calculadora 
-com interface gráfica que depois pretendo aprimorar a mesma.
+Projeto feito com o intuito de aprimorar conhecimentos em Python e em Git.Foi feita uma simples calculadora 
+com interface gráfica que depois pretendo aprimorar a mesma
 
 ## 👨‍💻️ Tecnologia Utilizada
 Esse projeto foi criado utilizando a tecnologia:
